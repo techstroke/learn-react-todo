@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Introduction
+A simple ToDo app that uses a fake JSON placeholder backend to add and delete ToDo's built as part of learning react following a tutorial
+
+This app can be viewed live on - https://todoreact.netlify.com/ 
+
+It is auto built/deployed with push to master , thanks to Netlify
+
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
